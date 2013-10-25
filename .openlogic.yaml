@@ -1,0 +1,18 @@
+--- 
+name: PostgreSQL 8.2.23 Source
+platform_id: all
+platform_version: all
+distribution_file_uuid_string: openlogic-postgresql-8.2.23-all-src-1
+platform_vendor: all
+description: PostgreSQL 8.2.23 Source
+platform_arch: all
+distribution_file_uuid: 9f13e8a6f5d219dfa21e97239798bbbd856c4c92a63aaef7c744b7cb7a241ae3
+distribution_version: 1
+distribution_flavor: ""
+distribution_raw_file: 8.2.23/postgresql-8.2.23.tar.bz2
+notify: "yes"
+package_version: 8.2.23
+package_id: postgresql
+release_date: "2011-12-06"
+distribution_notes: ""
+distribution_type: src
